@@ -1,6 +1,6 @@
 {
   "name": "callbag-never",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "👜 Callbag source that never completes and emits no data.",
   "main": "dist/callbag-never.js",
   "module": "dist/callbag-never.es.js",
